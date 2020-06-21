@@ -27,7 +27,7 @@
 			{
 				"command": "typescript-docs.typeScriptDocs",
 				"category": "TypeScript Docs",
-				"title": ""
+				"title": "TypeScript Docs"
 			},
 			{
                 "command": "typescript-docs.typeScriptDocsTutorials",
