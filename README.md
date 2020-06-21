@@ -18,7 +18,7 @@ Below is an example:
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release with four different webpages as explained in the features section.
 
