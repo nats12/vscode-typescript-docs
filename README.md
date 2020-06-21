@@ -14,7 +14,7 @@ Four different options will appear from which you can choose from:
 
 Below is an example:
 
-\!\[feature X\]\(images/vscode-ts.gif\)
+![Example](images/vscode-ts.gif)
 
 ## Release Notes
 
