@@ -1,4 +1,4 @@
-# TypeScript Docs README
+# TypeScript Docs
 
 Opens up the TypeScript documentation from within VS Code.
 
