@@ -2,7 +2,7 @@
 	"name": "typescript-docs",
 	"displayName": "TypeScript Docs",
 	"description": "Opens up the TypeScript documentation.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "NatalieMclaren",
 	"icon": "images/typescript-icon.png",
 	"repository": "https://github.com/nats12/vscode-typescript-docs",
